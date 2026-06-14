@@ -34,9 +34,9 @@ Analisis menyeluruh terhadap **9.994 transaksi retail** dari dataset Kaggle Supe
 ## Struktur File
 
 ```
-01_superstore_excel/
+1_Superstore_Sales_Performance/
 |
-|-- SalesPortfolio_[Nama].xlsx    # File Excel utama
+|-- SalesPortfolio_Fadlan.xlsx    # File Excel utama
 |   |-- RAW_DATA                  # Data mentah hasil import - tidak diubah
 |   |-- CLEAN_DATA                # Data bersih beserta kolom turunan
 |   |-- ANALYSIS                  # Semua Pivot Table (5 pivot)
