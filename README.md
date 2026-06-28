@@ -17,7 +17,7 @@ Saya adalah mahasiswa jurusan S1 Informatika di Universitas Pembangunan Nasional
 | Kategori | Tools & Teknik |
 |---|---|
 | **Spreadsheet** | Microsoft Excel, Power Query, Pivot Table, Dashboard Design |
-| **Database** | SQL |
+| **Database** | MySQL, PostgreSQL, DBeaver |
 | **Visualisasi** | Tableau , Excel Charts |
 | **Statistik** | Statistik Deskriptif, Korelasi *(sedang dipelajari)* |
 | **Lainnya** | Data Cleaning, Business Acumen, Storytelling with Data |
@@ -38,8 +38,15 @@ Saya adalah mahasiswa jurusan S1 Informatika di Universitas Pembangunan Nasional
 
 ---
 
-### 2. Portfolio-2 *(segera hadir)*
+### 2. Olist E-Commerce Sales & Payment Analysis
+**PostgreSQL · DBeaver · Tableau Public · Dashboard**
 
+> Analisis komprehensif terhadap 99.442 transaksi pada sebuah e-commerce yang bertujuan untuk mengetahui wilayah dan kategori yang menjadi sumber pendapatan tertinggi, serta metode pembayaran apa yang palind dominan digunakan.
+
+**Temuan utama:**
+- São Paulo (SP) mendominasi revenue dengan BRL 5,2 juta, hampir 3x lipat state kedua (RJ: BRL 1,8 juta)
+- Health Beauty memimpin revenue kategori (BRL 1,2 juta), diikuti Watches Gifts dan Bed Bath Table, ketiganya menyumbang lebih dari 40% total revenue top 10 kategori.
+- Credit Card adalah metode pembayaran dominan (76.505 order, ~75% dari total) dengan rata-rata nilai transaksi tertinggi (BRL 163) dan rata-rata 3,5 kali cicilan
 ---
 
 ### 3. Portfolio-3 *(akan datang)*
@@ -55,6 +62,10 @@ data-analyst-portfolio/
 │   ├── SalesPortfolio_Fadlan.xlsx    # File Excel utama
 │   ├── dashboard_superstore.png      # Tampilan dashboard lengkap
 │   └── README.md                     # Dokumentasi proyek
+│
+├── 2-Olist_Ecommerce_Sales_&_Payment_Analysis
+│   ├── queries.sql                   # File berisi query SQL
+│   ├── dashboard_olist.png           # Tampilan dashboard
 │
 └── README.md                         # File ini
 ```
