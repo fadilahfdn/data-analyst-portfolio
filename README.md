@@ -81,4 +81,4 @@ Terbuka untuk peluang magang, feedback, dan diskusi seputar data.
 - 📧 Email: [fadlanfadilah250@gmail.com](mailto:fadlanfadilah250@gmail.com)
 
 ---
-*Terakhir diperbarui: Juni 2026 · Portfolio ini terus diperbarui seiring proyek baru selesai dikerjakan.*
+*Terakhir diperbarui: Juli 2026 · Portfolio ini terus diperbarui seiring proyek baru selesai dikerjakan.*
