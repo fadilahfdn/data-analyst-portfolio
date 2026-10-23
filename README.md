@@ -2,7 +2,7 @@
 
 > Calon data Scientist yang sedang membangun portfolio dari nol - mendokumentasikan tantangan nyata, proses berpikir analitis, dan insight bisnis dari setiap proyek.
 
-[Portfolio](https://bit.ly/PortfolioDataAnalyst_Fadlan) · [LinkedIn](https://www.linkedin.com/in/fadlanfdilah) · [Email](mailto:fadlanfadilah250@gmail.com)
+[Portfolio](https://s.id/portfolio-data) · [LinkedIn](https://www.linkedin.com/in/fadlanfdilah) · [Email](mailto:fadlanfadilah250@gmail.com)
 
 ---
 
@@ -69,7 +69,7 @@ Saya adalah mahasiswa jurusan S1 Informatika di Universitas Pembangunan Nasional
 - *Dashboard* dilengkapi *sidebar widget* dinamis yang memungkinkan pengguna memfilter data berdasarkan tahun transaksi, rentang bulan, dan menyesuaikan jumlah *top* kategori produk (hingga 15 kategori).
 - Mengintegrasikan Plotly untuk menyajikan *line chart* dan *bar chart* yang sepenuhnya interaktif (*hover, zoom, pan*).
 
-**[🌐 Lihat Dashboard Interaktif](https://ecommerce-data-dashboard.streamlit.app/)**
+**[Lihat Dashboard Interaktif](https://ecommerce-data-dashboard.streamlit.app/)**
 ---
 
 ## Struktur Repository
@@ -85,6 +85,9 @@ data-analyst-portfolio/
 ├── 2-Olist_Ecommerce_Sales_&_Payment_Analysis
 │   ├── queries.sql                   # File berisi query SQL
 │   ├── dashboard_olist.png           # Tampilan dashboard
+│   ├── olist_customer_segmentation.ipynb
+│   ├── requirements.txt
+│   └── README.md
 │
 ├── 3-ecommerce_data_analysis/
 │   ├── dashboard/                    # File aplikasi Streamlit (dashboard.py) & data bersih
@@ -103,8 +106,8 @@ data-analyst-portfolio/
 Terbuka untuk peluang magang, feedback, dan diskusi seputar data.
 
 - 🔗 LinkedIn: [linkedin.com/in/fadlanfdilah](https://www.linkedin.com/in/fadlanfdilah)
-- 🌐 Portfolio: [bit.ly/PortfolioDataAnalyst_Fadlan](https://bit.ly/PortfolioDataAnalyst_Fadlan)
+- 🌐 Portfolio: [s.id/portfolio-data](https://s.id/portfolio-data)
 - 📧 Email: [fadlanfadilah250@gmail.com](mailto:fadlanfadilah250@gmail.com)
 
 ---
-*Terakhir diperbarui: September 2026 · Portfolio ini terus diperbarui seiring proyek baru selesai dikerjakan.*
+*Terakhir diperbarui: Oktober 2026 · Portfolio ini terus diperbarui seiring proyek baru selesai dikerjakan.*
