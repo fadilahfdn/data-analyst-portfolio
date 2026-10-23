@@ -1,4 +1,4 @@
-# Portfolio Data Analyst
+# Data Portfolio | Data Analyst & Data Science
 
 > Calon data Scientist yang sedang membangun portfolio dari nol - mendokumentasikan tantangan nyata, proses berpikir analitis, dan insight bisnis dari setiap proyek.
 
