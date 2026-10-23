@@ -40,14 +40,23 @@ Saya adalah mahasiswa jurusan S1 Informatika di Universitas Pembangunan Nasional
 ---
 
 ### 2. Olist E-Commerce Sales & Payment Analysis
-**PostgreSQL · DBeaver · Tableau Public · Dashboard**
+**PostgreSQL · DBeaver · Tableau Public · Python (Scikit-Learn) · Machine Learning**
 
-> Analisis komprehensif terhadap 99.442 transaksi pada sebuah e-commerce yang bertujuan untuk mengetahui wilayah dan kategori yang menjadi sumber pendapatan tertinggi, serta metode pembayaran apa yang palind dominan digunakan.
+> Analisis komprehensif terhadap 99.442 transaksi pada sebuah e-commerce yang bertujuan untuk mengetahui wilayah dan kategori yang menjadi sumber pendapatan tertinggi, serta metode pembayaran apa yang palind dominan digunakan. Proyek ini ditingkatkan ke ranah **Data Science** untuk mengotomatisasi **Customer Segmentation** menggunakan Machine Learning guna mendukung strategi pemasaran terpersonalisasi.
 
 **Temuan utama:**
 - São Paulo (SP) mendominasi revenue dengan BRL 5,2 juta, hampir 3x lipat state kedua (RJ: BRL 1,8 juta)
 - Health Beauty memimpin revenue kategori (BRL 1,2 juta), diikuti Watches Gifts dan Bed Bath Table, ketiganya menyumbang lebih dari 40% total revenue top 10 kategori.
 - Credit Card adalah metode pembayaran dominan (76.505 order, ~75% dari total) dengan rata-rata nilai transaksi tertinggi (BRL 163) dan rata-rata 3,5 kali cicilan
+
+**Peningkatan Ranah Data Science (Advanced Analytics):**
+* **Metodologi:** Mentransformasi data transaksi menjadi metrik perilaku konsumen individu menggunakan **RFM Analysis** (*Recency, Frequency, Monetary*), menangani keragaman data (*skewness*) dengan transformasi log, dilanjutkan penskalaan fitur via `StandardScaler`.
+* **Pemodelan:** Mengimplementasikan algoritma **K-Means Clustering** dengan optimalisasi jumlah kelompok menggunakan *Elbow Method* (\(k = 3\)).
+* **Rekomendasi Bisnis Berbasis Kluster:**
+  * *Champions/VIP:* Diberikan program loyalitas eksklusif dan akses awal produk baru pada kategori utama (Health & Beauty).
+  * *At Risk Customers:* Ditargetkan kembali menggunakan kampanye *win-back* khusus dengan promo cicilan *Credit Card* (memanfaatkan metode bayar paling populer).
+  * *Occasional Customers:* Didorong menggunakan strategi *cross-selling* barang pelengkap murah untuk meningkatkan nilai *Monetary* mereka.
+  
 ---
 
 ### 3. E-Commerce Public Dataset - Data Analytics Dashboard
