@@ -1,0 +1,10 @@
+# Pustaka Utama Pengolahan Data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Pustaka Machine Learning & Preprocessing
+scikit-learn>=1.3.0
+
+# Pustaka Visualisasi Data
+matplotlib>=3.7.0
+seaborn>=0.12.0
